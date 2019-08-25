@@ -1,0 +1,5 @@
+name: NoFallingDamage
+main: fr.gamatico.nofallingdamage.NoFallingDamage
+version: 1.0
+author: Gamatico
+api-version: 1.14
